@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8850
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Le_Faure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24924#Aventures-extraordinaires-d-un-savant-russeIV.-Le-d-sert-sid-ral
 gutenberg_bookshelf: FR Science fiction
 gutenberg_issued: '2008-03-27'
 gutenberg_type: Text
