@@ -1,0 +1,41 @@
+_repo: Aventures-extraordinaires-d-un-savant-russeIV.-Le-d-sert-sid-ral_24924
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Graffigny, H. de (Henry)
+    aliases:
+    - Graffigny, Henry de
+    - Marquis, Raoul
+    - Graffigny, Henri de
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '7542'
+    url: http://www.gutenberg.org/2009/agents/7542
+  - agent_name: Le Faure, Georges
+    alias: Faure, Georges Le
+    birthdate: 1856
+    deathdate: 1953
+    gutenberg_agent_id: '8850'
+    url: http://www.gutenberg.org/2009/agents/8850
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Le_Faure
+description: ''
+gutenberg_bookshelf: FR Science fiction
+gutenberg_issued: '2008-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24924'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+title: 'Aventures extraordinaires d''un savant russe
+
+  IV. Le désert sidéral'
+url: http://www.gutenberg.org/ebooks/24924
